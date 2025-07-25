@@ -1,4 +1,0 @@
-This is my login file
-We are learning FSD
-Today is friday
-We are learning git topic
