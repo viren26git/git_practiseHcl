@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adding more text
+=======
+again we are making the same changes from copybranch
+>>>>>>> copybranch
